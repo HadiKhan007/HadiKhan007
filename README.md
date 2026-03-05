@@ -1,26 +1,18 @@
 # 💫 About Me:
-**Senior React Native Developer | AI & Mobile Enthusiast**
+🔭 I’m currently working on: Scaling high-performance mobile solutions at BinaryBrix, focusing on AI Voice Analysis and OCR integration to bridge the gap between AI and mobile UX.<br><br>👯 I’m looking to collaborate on: Open-source React Native libraries, particularly those involving Native Modules or AI/ML integration for mobile.<br><br>🤝 I’m looking for help with: Advanced DevOps workflows for mobile (CI/CD pipelines for automated App Store/Play Store deployments).<br><br>🌱 I’m currently learning: Deepening my expertise in Node.js/Express and PostgreSQL to become a more robust Full-Stack Engineer.<br><br>💬 Ask me about: React Native performance optimization, State Management with Redux/RTK, or integrating Firebase/Supabase for scalable backends.<br><br>⚡ Fun fact: When I'm not debugging re-renders, I’m likely exploring the rhythms of Poetry or traveling to find new inspiration.
 
-🔭 **I’m currently working on**: Scaling high-performance mobile solutions at **BinaryBrix**, focusing on **AI Voice Analysis** and **OCR integration** to bridge the gap between AI and mobile UX.
 
-👯 **I’m looking to collaborate on**: Open-source React Native libraries, particularly those involving **Native Modules** or **AI/ML integration** for mobile.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alihaidercs17@gmail.com) 
 
-🤝 **I’m looking for help with**: Advanced DevOps workflows for mobile (CI/CD pipelines for automated App Store/Play Store deployments).
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HadiKhan007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HadiKhan007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiKhan007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 **I’m currently learning**: Deepening my expertise in **Node.js/Express** and **PostgreSQL** to become a more robust Full-Stack Engineer.
+---
+[![](https://visitcount.itsvg.in/api?id=HadiKhan007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-💬 **Ask me about**: **React Native performance optimization**, State Management with **Redux/RTK**, or integrating **Firebase/Supabase** for scalable backends.
-
-⚡ **Fun fact**: When I'm not debugging re-renders, I’m likely exploring the rhythms of **Poetry** or traveling to find new inspiration.
-
-## 🌐 Connect with me:
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihaidercs17@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihaider17/)
-
-## 📱 Major Projects:
-**Enterprise:** Mevris (Orient Official) • Tijarat (E-com) • First Group Services  
-**AI & Health:** SugarCare AI • Original Fibber AI • WinRate App  
-**Social/Tools:** SpotSwap • Housibly • Referral Pro
-
-## 💻 Tech Stack:
-*(Your existing badges here)*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
